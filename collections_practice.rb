@@ -37,10 +37,7 @@ def find_a(array)
     word[0] == "a"
   end
 
-  # using select method
-    # array.select do |word|
-    #   word[0] == "a"
-    # end
+
 end
 
 def sum_array(array)
